@@ -1,0 +1,33 @@
+{
+  "components": [
+    {
+      "label": "Bank Account",
+      "type": "textfield",
+      "id": "Field_13yuux3",
+      "key": "Bank_Account",
+      "validate": {
+        "minLength": 1,
+        "maxLength": 29
+      }
+    },
+    {
+      "label": "password",
+      "type": "textfield",
+      "id": "Field_0s1s3fn",
+      "key": "password",
+      "validate": {
+        "minLength": 0,
+        "maxLength": 50
+      }
+    }
+  ],
+  "schemaVersion": 5,
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "b82f70e"
+  },
+  "type": "default",
+  "id": "Form_82a9f311-79b7-4e3a-b0e5-95c4e9ac3e5b",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0"
+}

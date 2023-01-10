@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "Pick the favorite item",
+      "type": "textfield",
+      "id": "Field_00l314d",
+      "key": "Pick_the_favorite_item",
+      "validate": {
+        "minLength": 1,
+        "maxLength": 100
+      }
+    }
+  ],
+  "schemaVersion": 5,
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "b82f70e"
+  },
+  "type": "default",
+  "id": "Form_3ec24e6c-fc8b-41fa-8419-0426d82fe1c5",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0"
+}

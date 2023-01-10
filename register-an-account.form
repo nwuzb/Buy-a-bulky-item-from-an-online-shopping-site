@@ -1,0 +1,33 @@
+{
+  "components": [
+    {
+      "label": "Register an account",
+      "type": "textfield",
+      "id": "Field_0xrmpfa",
+      "key": "Register_an_account",
+      "validate": {
+        "minLength": 1,
+        "maxLength": 50
+      }
+    },
+    {
+      "label": "account password",
+      "type": "textfield",
+      "id": "Field_1qldz51",
+      "key": "account_password",
+      "validate": {
+        "minLength": 1,
+        "maxLength": 30
+      }
+    }
+  ],
+  "schemaVersion": 5,
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "b82f70e"
+  },
+  "type": "default",
+  "id": "Form_3121e7a4-6915-45e5-8d74-484606ee385a",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0"
+}

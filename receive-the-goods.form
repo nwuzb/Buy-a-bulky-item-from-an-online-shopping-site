@@ -1,0 +1,29 @@
+{
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Yes",
+          "value": "true"
+        },
+        {
+          "label": "No",
+          "value": "false"
+        }
+      ],
+      "label": "receive the goods?",
+      "type": "radio",
+      "id": "Field_1938igy",
+      "key": "receive_the_goods"
+    }
+  ],
+  "schemaVersion": 5,
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "b82f70e"
+  },
+  "type": "default",
+  "id": "Form_0166bc81-f971-442a-95d7-ef7161dd194e",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0"
+}

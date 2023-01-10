@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "Complain",
+      "type": "textfield",
+      "id": "Field_0290rxz",
+      "key": "Complain",
+      "validate": {
+        "minLength": 1,
+        "maxLength": 1000
+      }
+    }
+  ],
+  "schemaVersion": 5,
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "b82f70e"
+  },
+  "type": "default",
+  "id": "Form_bfe793ee-aafd-4cab-8419-6c5166825f63",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0"
+}

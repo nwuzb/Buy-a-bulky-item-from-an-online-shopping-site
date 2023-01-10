@@ -1,0 +1,29 @@
+{
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Yes",
+          "value": "true"
+        },
+        {
+          "label": "No",
+          "value": "false"
+        }
+      ],
+      "label": "Change Oder?",
+      "type": "radio",
+      "id": "Field_09ul32n",
+      "key": "Change_Oder"
+    }
+  ],
+  "schemaVersion": 5,
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "b82f70e"
+  },
+  "type": "default",
+  "id": "Form_fc29eb21-6843-4b8f-b44c-03c962aac8c6",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0"
+}
